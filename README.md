@@ -3,6 +3,8 @@
 Credits Risk Analysis: 
 The objective of this case study is to help a leading bank predict which customers are most likely to default on a loan. To achieve this, the bank wants to analyze the behavior of existing customers in order to make informed decisions on whether to extend credit to new customers. Credit scoring is the set of decision models and techniques that aid lenders in granting consumer credit, and this project will utilize various credit scoring techniques to achieve the desired outcome. By analyzing data related to credit cards, auto loans, home loans, and other personal loan products, the bank can identify patterns and trends that indicate higher risk of default. This will enable the bank to make more informed decisions about extending credit to new customers and minimize the risk of default.
 
+![Analysis Process](1.png)
+
 Objectives:
 - The objective of the case study is to help a leading bank predict customers who are most likely to default on a loan.
 
@@ -14,9 +16,9 @@ Objectives:
 
 - The ultimate goal is to enable the bank to make more informed decisions about extending credit to new customers and minimize the risk of default.
 
-
-
-
+<object data="https://github.com/USERNAME/REPOSITORY/blob/BRANCH/FILE.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/USERNAME/REPOSITORY/blob/BRANCH/FILE.pdf">
+</object>
 
 An ROC (receiver operating characteristic) curve is a graphical representation of a classification model's performance at all classification thresholds. It shows the trade-off between the sensitivity (true positive rate) and specificity (true negative rate) of the model at different thresholds.
 
