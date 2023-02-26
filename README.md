@@ -1,4 +1,5 @@
 # RiskMinder: Real-time-Credit-Risk-Management-through-Data
+   Full Project with Code please visit: https://deepnote.com/@the-digi-life/RiskMinder-Real-time-Credit-Risk-Management-through-Data-Analysis-bd225682-a1e5-463c-a4b6-e205932a885e
 
 Credits Risk Analysis: 
 
