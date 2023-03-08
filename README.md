@@ -1,6 +1,6 @@
 # RiskMinder: Real-time-Credit-Risk-Management-through-Data
-   Full Project with Code please visit: https://deepnote.com/@the-digi-life/RiskMinder-Real-time-Credit-Risk-Management-through-Data-Analysis-bd225682-a1e5-463c-a4b6-e205932a885e
-
+   Full Project with Code please visit: https://deepnote.com/workspace/the-digi-life-f922427d-4f09-42cc-8dca-6fc747ba3514/project/RiskMinder-Real-time-Credit-Risk-Management-through-Data-Analysis-bd225682-a1e5-463c-a4b6-e205932a885e/notebook/Notebook%201-98840ee8ebfe40f587ba38eaf031a71a
+   
 Credits Risk Analysis: 
 
         The objective of this case study is to help a leading bank predict which customers are most likely to default on a loan. To achieve this, the bank wants to analyze the behavior of existing customers in order to make informed decisions on whether to extend credit to new customers. Credit scoring is the set of decision models and techniques that aid lenders in granting consumer credit, and this project will utilize various credit scoring techniques to achieve the desired outcome. By analyzing data related to credit cards, auto loans, home loans, and other personal loan products, the bank can identify patterns and trends that indicate higher risk of default. This will enable the bank to make more informed decisions about extending credit to new customers and minimize the risk of default.
